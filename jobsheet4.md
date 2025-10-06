@@ -12,6 +12,6 @@ Artinya, perubahan yang dilakukan di komputer lokal sudah tersimpan dan dikirim 
 ## Pertanyaan
 2. Jelaskan fungsi dari Add, Commit, dan Push
 ### Jawab:
-Add: untuk menyiapkan file yang mau disimpan (Git mulai memperhatikan perubahan file itu).
+- Add: untuk menyiapkan file yang mau disimpan (Git mulai memperhatikan perubahan file itu).
 Commit: untuk menyimpan perubahan ke dalam versi baru di komputer kamu.
 Push: untuk mengirim hasil commit itu ke GitHub agar tersimpan di repo online.
