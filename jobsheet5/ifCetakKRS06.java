@@ -9,7 +9,6 @@ public class ifCetakKRS06 {
     System.out.println("--- Cetak KRS SIAKAD ---");                             
     System.out.print("Apakah UKT sudah lunas? (true/false): ");
     boolean uktLunas = sc.nextBoolean();
-    // boolean uktBelumLunas = sc.nextBoolean();
 
     if(uktLunas) {
         System.out.println("Pembayaran UKT terverifikasi");
