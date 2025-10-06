@@ -2,6 +2,8 @@
 Nama: Aylafada Syakira
 NIM: 254107020116
 Kelas: TI-1C
+<img width="1917" height="1029" alt="Screenshot 2025-10-05 220512" src="https://github.com/user-attachments/assets/e59b0952-7988-4400-93e9-76689126b061" />
+<img width="1326" height="324" alt="Screenshot 2025-10-05 224146" src="https://github.com/user-attachments/assets/ba437413-d4e3-4095-9e5f-12ffd2dc610b" />
 
 ## 2.1 Pertanyaan 
 1. Cek apakah file Test.txt ada di Github. Jika tidak, mengapa?
