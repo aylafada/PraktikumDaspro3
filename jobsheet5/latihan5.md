@@ -17,6 +17,7 @@
 ## Jawaban
 
 1. Berikut flowchart soal nomor 1:
+   <img width="426" height="531" alt="Screenshot 2025-10-08 100832" src="https://github.com/user-attachments/assets/2e26119d-c341-4977-9ad0-82d2aa121914" />
 
     Berikut Pseudocode soal nomor 1: 
  START
@@ -32,6 +33,7 @@ INPUT registrasi
 END
 
 2. Berikut flowchart soal nomor 2:
+   <img width="585" height="760" alt="Screenshot 2025-10-09 194511" src="https://github.com/user-attachments/assets/8bc84a06-b8b0-40c4-b44e-d6f166891b16" />
 
     Berikut Pseudocode soal nomor 2: 
 START
