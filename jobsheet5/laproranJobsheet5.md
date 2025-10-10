@@ -1,4 +1,4 @@
-<img width="1334" height="552" alt="Screenshot 2025-10-10 105317" src="https://github.com/user-attachments/assets/169c8674-d1d0-492d-8731-8add8cbb4166" /># Laporan Praktikum Dasar Pemrograman Jobsheet 5 Pemilihan
+# Laporan Praktikum Dasar Pemrograman Jobsheet 5 Pemilihan
 
 <h3>Nama : Aylafada Syakira<h3>
 <h3>NIM : 254107020116<h3>
