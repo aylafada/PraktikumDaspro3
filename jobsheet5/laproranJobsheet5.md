@@ -1,8 +1,8 @@
 # Laporan Praktikum Dasar Pemrograman Jobsheet 5 Pemilihan
 
-<h3>Nama : Aylafada Syakira<h3>
-<h3>NIM : 254107020116<h3>
-<h3>Kelas : TI-1C<h3>
+<h4>Nama : Aylafada Syakira<h4>
+<h4>NIM : 254107020116<h4>
+<h4>Kelas : TI-1C<h4>
 
 ## 2.1 Percobaan 1: Penerapan IF-ELSE untuk Mencetak KRS 
 
@@ -78,7 +78,7 @@ Anda ke Github dengan pesan “Tugas 1”
 Implementasikan flowchart tersebut ke dalam kode program Java dengan struktur 
 pemilihan IF-ELSE! Commit dan push program Anda ke Github dengan pesan “Tugas 2”
 - Berikut implementasi flowchart soal nomor dua:
-  <img width="801" height="591" alt="Screenshot 2025-10-10 105545" src="https://github.com/user-attachments/assets/778555db-8be4-414a-bf0f-89ab823be5e8" />
+  <img width="861" height="933" alt="Screenshot 2025-10-10 135651" src="https://github.com/user-attachments/assets/04040e70-07d8-4d42-b233-0ce874ff89b8" />
 
 
 
