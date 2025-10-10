@@ -1,10 +1,10 @@
 # Laporan Praktikum Dasar Pemrograman Jobsheet 5 Pemilihan
 
-<h3>Nama : Aylafada Syakira<h3> hello belo
+<h3>Nama : Aylafada Syakira<h3>
 <h3>NIM : 254107020116<h3>
 <h3>Kelas : TI-1C<h3>
 
-## 2.1 Percobaan 1: Penerapan IF-ELSE untuk mencetak KRS 
+## 2.1 Percobaan 1: Penerapan IF-ELSE untuk Mencetak KRS 
 
 ### Pertanyaan Percobaan 2
 1. Mengapa pengecekan pada struktur IF tersebut tidak melibatkan kondisi dengan operator relasional? 
@@ -15,7 +15,10 @@
 ### Jawaban Percobaan 2.1
 1. Karena kondisi yang dicek sudah berupa boolean, dimana boolean bernilai true or false. Contoh operator relasional adalah ==, !=, <, >
 2. Ketika mengisi nilai false, tidak terdapat output, karena false berarti kondisi tidak terpenuhi, dan karena tidak ada struktur else, tidak ada tindakan lain yang dilakukan.
-3. Berikut hasil dari modifikasi Percobaan 1: 
+3. Berikut hasil dari modifikasi Percobaan 1:
+   <img width="994" height="408" alt="Screenshot 2025-10-10 105202" src="https://github.com/user-attachments/assets/8b41a276-8edd-41d4-9c9a-0c15aee8c624" />
+
+
 
 ## Percobaan 2.2: SWITCH-CASE untuk Mencetak KRS
 
@@ -29,7 +32,9 @@ dibuat ke dalam bentuk IF-ELSE IF-ELSE.
 ### Jawaban Percobaan 2.2
 1. Break adalah perintah yang digunakan untuk menghentikan jalannya program di dalam suatu blok, seperti pada switch-case sebelum mencapai strutur akhir tersebut. 
 2. Default digunakan untuk menangani kasus yang tidak cocok dengan case manapun dalam switch.
-3. Berikut hasil Modifikasi percobaan 2: 
+3. Berikut hasil Modifikasi percobaan 2:
+   <img width="948" height="796" alt="Screenshot 2025-10-10 105047" src="https://github.com/user-attachments/assets/83da8151-ff05-445b-902e-d1e1105b1ea0" />
+
 
 ## Percobaan 3: Nested IF untuk Mencetak Syarat Ujian Skripsi
 
@@ -66,12 +71,15 @@ untuk melakukan transformasi program cetak KRS hasil modifikasi menggunakan stru
 IF-ELSE yang telah dibuat ke dalam bentuk Ternary Operator! Commit dan push program 
 Anda ke Github dengan pesan “Tugas 1” 
 - Berikut hasil modifikasi dalam bentuk Ternary Operator:
+    <img width="1334" height="552" alt="Screenshot 2025-10-10 105317" src="https://github.com/user-attachments/assets/92035ab7-b53f-4175-b68b-ab96bd952170" />
 
 
 ## Tugas 2 
 Implementasikan flowchart tersebut ke dalam kode program Java dengan struktur 
 pemilihan IF-ELSE! Commit dan push program Anda ke Github dengan pesan “Tugas 2”
 - Berikut implementasi flowchart soal nomor dua:
+  <img width="801" height="591" alt="Screenshot 2025-10-10 105545" src="https://github.com/user-attachments/assets/778555db-8be4-414a-bf0f-89ab823be5e8" />
+
 
 
 ## Tugas 3
@@ -79,5 +87,7 @@ Implementasikan flowchart yang telah Anda buat untuk Latihan pada Tugas pertemua
 5 Matakuliah Dasar Pemrograman terkait sistem perpustakaan dan akses WIFI kampus 
 ke dalam kode program! Commit dan push program Anda ke Github dengan pesan 
 “Tugas 3” 
-- Berikut implementasi flowchart pada Tugas pertemuan 5: 
+- Berikut implementasi flowchart pada Tugas pertemuan 5:
+  <img width="1068" height="910" alt="Screenshot 2025-10-10 110556" src="https://github.com/user-attachments/assets/4c28c969-effe-4139-aade-c206881beff2" />
+
 
