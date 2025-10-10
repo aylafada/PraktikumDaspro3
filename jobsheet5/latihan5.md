@@ -17,14 +17,15 @@
 ## Jawaban
 
 1. Berikut flowchart soal nomor 1:
-   <img width="426" height="531" alt="Screenshot 2025-10-08 100832" src="https://github.com/user-attachments/assets/2e26119d-c341-4977-9ad0-82d2aa121914" />
+- <img width="426" height="531" alt="Screenshot 2025-10-08 100832" src="https://github.com/user-attachments/assets/2e26119d-c341-4977-9ad0-82d2aa121914" />
 
-    Berikut Pseudocode soal nomor 1: 
+    Berikut Pseudocode soal nomor 1:
+  
  START
  DEKLARASI boolean ktm, registrasi;
  
-INPUT ktm 
-INPUT registrasi
+ INPUT ktm 
+ INPUT registrasi
  
  IF (ktm = "Ya" OR registrasi = "Ya" )
     PRINT "Boleh masuk"
@@ -33,15 +34,14 @@ INPUT registrasi
 END
 
 2. Berikut flowchart soal nomor 2:
-   <img width="585" height="760" alt="Screenshot 2025-10-09 194511" src="https://github.com/user-attachments/assets/8bc84a06-b8b0-40c4-b44e-d6f166891b16" />
+- <img width="585" height="760" alt="Screenshot 2025-10-09 194511" src="https://github.com/user-attachments/assets/8bc84a06-b8b0-40c4-b44e-d6f166891b16" />
 
-    Berikut Pseudocode soal nomor 2: 
+    Berikut Pseudocode soal nomor 2:
+  
 START
 DEKLARASI String jenisPengguna, Int SKS
-
 PRINT "Apakah jenisPengguna = (dosen/mahasiswa/lainnya): "
 INPUT jenisPengguna
-
 IF jenisPengguna = "dosen" 
     PRINT "Akses wifi diberikan (dosen)"
 ELSE IF Apakah jenisPengguna = "mahasiswa"
