@@ -3,6 +3,7 @@
 <h3> Nama: Aylafada Syakira <h3>
 <h3> NIM: 254107020116 <h3>
 <h3> Kelas: TI-1C <h3>
+
 ## Soal 
 1. Jika mahasiswa membawa kartu mahasiswa, atau sudah melakukan registrasi online, maka boleh masuk.
     • Jika tidak memenuhi salah satu dari dua syarat tersebut, maka ditolak masuk. Buatlah flowchart dan pseudocode untuk menyelesaikan masalah tersebut!
