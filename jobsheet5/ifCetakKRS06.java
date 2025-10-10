@@ -21,6 +21,7 @@ public class ifCetakKRS06 {
     String pesan = uktLunas
     ? "Pembayaran UKT terverifikasi\nSilakan cetak KRS dan minta tanda tangan DPA" : "Registrasi ditolak. Silakan lunasi UKT terlebih dahulu."; 
 
+    
     }
 }
 
