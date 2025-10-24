@@ -4,10 +4,10 @@ import java.util.Scanner;
 
 public class tugas2 {
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
+        try (Scanner sc = new Scanner(System.in)) {
 
         //deklarasi
-        int angka;
+        int angka=0;
         System.out.println("Masukkan angka: ");
 
         if (angka % 2 == 0) {
@@ -15,5 +15,8 @@ public class tugas2 {
         } else {
             System.out.println("Angka Genap");
         }
-    }
+
+        sc.close();
+        }
+    } 
 }
